@@ -60,7 +60,7 @@ export const WORK_EXPERIENCE = [
             "开发次元体验馆虚拟订房系统，提供基于AI的个性化虚拟聊天机器人服务，支持用户通过生成的虚拟对象进行互动交流，并提供订房管理、订单搜索和虚拟影院等功能。通过MongoDB迁移、Stable Diffusion风格化头像生成及Google reCAPTCHA提升系统安全性和数据处理效率",
             "相关技能: Spring Boot, React, MongoDB, OpenAI API, Stable Diffusion, AWS S3, TMDB API",
             "GitHub地址: https://github.com/Kurumiku0712/fantasy-inn",
-            "演示视频链接: https://drive.google.com/file/d/15vCsdHe3SlKA0T6ZmvEg-KwqPapMK88P/view?usp=sharing"
+            "演示视频链接: https://share.weiyun.com/9y9b59eu"
         ],
     },
 
@@ -80,7 +80,7 @@ export const WORK_EXPERIENCE = [
             "在Unity平台开发 2D roguelike 游戏，负责团队的任务分配和项目进度管理，参与脚本、艺术设计和战斗机制的实现。通过A*算法优化敌人AI路径，并提升场景加载效率和屏幕稳定性",
             "相关技能: Unity, C#, 项目管理, 游戏设计",
             "GitHub地址: https://github.com/Kurumiku0712/Anesidora-MiniGame",
-            "演示视频链接: https://drive.google.com/file/d/1Gvk1vCgDrKr9t8bSBNAH-B2wg2uDd_5OZ/view?usp=sharing"
+            "演示视频链接: https://share.weiyun.com/el18zOas"
         ],
     },
 
