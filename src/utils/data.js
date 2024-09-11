@@ -60,7 +60,8 @@ export const WORK_EXPERIENCE = [
             "开发次元体验馆虚拟订房系统，提供基于AI的个性化虚拟聊天机器人服务，支持用户通过生成的虚拟对象进行互动交流，并提供订房管理、订单搜索和虚拟影院等功能。通过MongoDB迁移、Stable Diffusion风格化头像生成及Google reCAPTCHA提升系统安全性和数据处理效率",
             "相关技能: Spring Boot, React, MongoDB, OpenAI API, Stable Diffusion, AWS S3, TMDB API",
             "GitHub地址: https://github.com/Kurumiku0712/fantasy-inn",
-            "演示视频链接: https://share.weiyun.com/9y9b59eu"
+            "演示视频链接: https://share.weiyun.com/9y9b59eu",
+            "或者 https://www.bilibili.com/video/BV1Pb4reJEse/"
         ],
     },
 
