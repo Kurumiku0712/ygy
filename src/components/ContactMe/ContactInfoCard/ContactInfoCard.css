@@ -1,0 +1,41 @@
+.contact-details-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #ebf1fb;
+    border-radius: 0.65rem;
+    border: 1.5px solid #2c62ce;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.contact-details-card:hover {
+    background: #d3e2ff;
+    border-color: #c9d2fc;
+}
+
+.contact-details-card .icon {
+    width: 2.5rem;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.5rem;
+    border: 1.5px solid #cbd9f5;
+    background: #fcfcfc;
+    margin-bottom: 0.5rem;
+}
+
+.icon img {
+    width: 1.8rem;
+    height: auto;
+    object-fit: contain;
+}
+
+.contact-details-card p {
+    font-size: 0.9rem;
+    color: black;
+    font-weight: 400;
+}
+
