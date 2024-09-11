@@ -1,11 +1,6 @@
 ## Website Link: 
 
-https://kurumiku0712.github.io/Personal-Portfolio-CN/
-
-or
-
-https://personal-portfolio-cn.vercel.app/
-
+https://kurumiku0712.github.io/ygy
 
 # Getting Started with Create React App
 
