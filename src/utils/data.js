@@ -61,7 +61,7 @@ export const WORK_EXPERIENCE = [
             "相关技能: Spring Boot, React, MongoDB, OpenAI API, Stable Diffusion, AWS S3, TMDB API",
             "GitHub地址: https://github.com/Kurumiku0712/fantasy-inn",
             "演示视频链接: https://share.weiyun.com/9y9b59eu",
-            "或者 https://www.bilibili.com/video/BV1Pb4reJEse/"
+            "或者: https://www.bilibili.com/video/BV1Pb4reJEse/"
         ],
     },
 
